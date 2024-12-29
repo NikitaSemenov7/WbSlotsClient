@@ -1,0 +1,652 @@
+[
+  {
+    "date": "2024-12-19T00:00:00Z",
+    "coefficient": 3.0,
+    "warehouseID": 120762.0,
+    "warehouseName": "Электросталь",
+    "boxTypeName": "Короба",
+    "boxTypeID": 2.0,
+    "allowUnload": true,
+    "IsAvailableToBook": true
+  },
+  {
+    "date": "2024-12-22T00:00:00Z",
+    "coefficient": 3.0,
+    "warehouseID": 120762.0,
+    "warehouseName": "Электросталь",
+    "boxTypeName": "Короба",
+    "boxTypeID": 2.0,
+    "allowUnload": true,
+    "IsAvailableToBook": true
+  },
+  {
+    "date": "2024-12-23T00:00:00Z",
+    "coefficient": 3.0,
+    "warehouseID": 120762.0,
+    "warehouseName": "Электросталь",
+    "boxTypeName": "Короба",
+    "boxTypeID": 2.0,
+    "allowUnload": true,
+    "IsAvailableToBook": true
+  },
+  {
+    "date": "2024-12-31T00:00:00Z",
+    "coefficient": 3.0,
+    "warehouseID": 120762.0,
+    "warehouseName": "Электросталь",
+    "boxTypeName": "Короба",
+    "boxTypeID": 2.0,
+    "allowUnload": true,
+    "IsAvailableToBook": true
+  },
+  {
+    "date": "2024-12-19T00:00:00Z",
+    "coefficient": 3.0,
+    "warehouseID": 206348.0,
+    "warehouseName": "Тула",
+    "boxTypeName": "Короба",
+    "boxTypeID": 2.0,
+    "allowUnload": true,
+    "IsAvailableToBook": true
+  },
+  {
+    "date": "2024-12-20T00:00:00Z",
+    "coefficient": 3.0,
+    "warehouseID": 206348.0,
+    "warehouseName": "Тула",
+    "boxTypeName": "Короба",
+    "boxTypeID": 2.0,
+    "allowUnload": true,
+    "IsAvailableToBook": true
+  },
+  {
+    "date": "2024-12-21T00:00:00Z",
+    "coefficient": 3.0,
+    "warehouseID": 206348.0,
+    "warehouseName": "Тула",
+    "boxTypeName": "Короба",
+    "boxTypeID": 2.0,
+    "allowUnload": true,
+    "IsAvailableToBook": true
+  },
+  {
+    "date": "2024-12-22T00:00:00Z",
+    "coefficient": 3.0,
+    "warehouseID": 206348.0,
+    "warehouseName": "Тула",
+    "boxTypeName": "Короба",
+    "boxTypeID": 2.0,
+    "allowUnload": true,
+    "IsAvailableToBook": true
+  },
+  {
+    "date": "2024-12-23T00:00:00Z",
+    "coefficient": 3.0,
+    "warehouseID": 206348.0,
+    "warehouseName": "Тула",
+    "boxTypeName": "Короба",
+    "boxTypeID": 2.0,
+    "allowUnload": true,
+    "IsAvailableToBook": true
+  },
+  {
+    "date": "2024-12-24T00:00:00Z",
+    "coefficient": 3.0,
+    "warehouseID": 206348.0,
+    "warehouseName": "Тула",
+    "boxTypeName": "Короба",
+    "boxTypeID": 2.0,
+    "allowUnload": true,
+    "IsAvailableToBook": true
+  },
+  {
+    "date": "2024-12-25T00:00:00Z",
+    "coefficient": 3.0,
+    "warehouseID": 206348.0,
+    "warehouseName": "Тула",
+    "boxTypeName": "Короба",
+    "boxTypeID": 2.0,
+    "allowUnload": true,
+    "IsAvailableToBook": true
+  },
+  {
+    "date": "2024-12-26T00:00:00Z",
+    "coefficient": 3.0,
+    "warehouseID": 206348.0,
+    "warehouseName": "Тула",
+    "boxTypeName": "Короба",
+    "boxTypeID": 2.0,
+    "allowUnload": true,
+    "IsAvailableToBook": true
+  },
+  {
+    "date": "2024-12-28T00:00:00Z",
+    "coefficient": 3.0,
+    "warehouseID": 206348.0,
+    "warehouseName": "Тула",
+    "boxTypeName": "Короба",
+    "boxTypeID": 2.0,
+    "allowUnload": true,
+    "IsAvailableToBook": true
+  },
+  {
+    "date": "2024-12-29T00:00:00Z",
+    "coefficient": 3.0,
+    "warehouseID": 206348.0,
+    "warehouseName": "Тула",
+    "boxTypeName": "Короба",
+    "boxTypeID": 2.0,
+    "allowUnload": true,
+    "IsAvailableToBook": true
+  },
+  {
+    "date": "2024-12-30T00:00:00Z",
+    "coefficient": 3.0,
+    "warehouseID": 206348.0,
+    "warehouseName": "Тула",
+    "boxTypeName": "Короба",
+    "boxTypeID": 2.0,
+    "allowUnload": true,
+    "IsAvailableToBook": true
+  },
+  {
+    "date": "2024-12-31T00:00:00Z",
+    "coefficient": 3.0,
+    "warehouseID": 206348.0,
+    "warehouseName": "Тула",
+    "boxTypeName": "Короба",
+    "boxTypeID": 2.0,
+    "allowUnload": true,
+    "IsAvailableToBook": true
+  },
+  {
+    "date": "2025-01-01T00:00:00Z",
+    "coefficient": 3.0,
+    "warehouseID": 206348.0,
+    "warehouseName": "Тула",
+    "boxTypeName": "Короба",
+    "boxTypeID": 2.0,
+    "allowUnload": true,
+    "IsAvailableToBook": true
+  },
+  {
+    "date": "2024-12-22T00:00:00Z",
+    "coefficient": 5.0,
+    "warehouseID": 507.0,
+    "warehouseName": "Коледино",
+    "boxTypeName": "Короба",
+    "boxTypeID": 2.0,
+    "allowUnload": true,
+    "IsAvailableToBook": true
+  },
+  {
+    "date": "2024-12-23T00:00:00Z",
+    "coefficient": 5.0,
+    "warehouseID": 507.0,
+    "warehouseName": "Коледино",
+    "boxTypeName": "Короба",
+    "boxTypeID": 2.0,
+    "allowUnload": true,
+    "IsAvailableToBook": true
+  },
+  {
+    "date": "2024-12-24T00:00:00Z",
+    "coefficient": 5.0,
+    "warehouseID": 507.0,
+    "warehouseName": "Коледино",
+    "boxTypeName": "Короба",
+    "boxTypeID": 2.0,
+    "allowUnload": true,
+    "IsAvailableToBook": true
+  },
+  {
+    "date": "2024-12-25T00:00:00Z",
+    "coefficient": 5.0,
+    "warehouseID": 507.0,
+    "warehouseName": "Коледино",
+    "boxTypeName": "Короба",
+    "boxTypeID": 2.0,
+    "allowUnload": true,
+    "IsAvailableToBook": true
+  },
+  {
+    "date": "2024-12-26T00:00:00Z",
+    "coefficient": 5.0,
+    "warehouseID": 507.0,
+    "warehouseName": "Коледино",
+    "boxTypeName": "Короба",
+    "boxTypeID": 2.0,
+    "allowUnload": true,
+    "IsAvailableToBook": true
+  },
+  {
+    "date": "2024-12-28T00:00:00Z",
+    "coefficient": 5.0,
+    "warehouseID": 507.0,
+    "warehouseName": "Коледино",
+    "boxTypeName": "Короба",
+    "boxTypeID": 2.0,
+    "allowUnload": true,
+    "IsAvailableToBook": true
+  },
+  {
+    "date": "2024-12-29T00:00:00Z",
+    "coefficient": 5.0,
+    "warehouseID": 507.0,
+    "warehouseName": "Коледино",
+    "boxTypeName": "Короба",
+    "boxTypeID": 2.0,
+    "allowUnload": true,
+    "IsAvailableToBook": true
+  },
+  {
+    "date": "2024-12-30T00:00:00Z",
+    "coefficient": 5.0,
+    "warehouseID": 507.0,
+    "warehouseName": "Коледино",
+    "boxTypeName": "Короба",
+    "boxTypeID": 2.0,
+    "allowUnload": true,
+    "IsAvailableToBook": true
+  },
+  {
+    "date": "2025-01-01T00:00:00Z",
+    "coefficient": 3.0,
+    "warehouseID": 117986.0,
+    "warehouseName": "Казань",
+    "boxTypeName": "Короба",
+    "boxTypeID": 2.0,
+    "allowUnload": true,
+    "IsAvailableToBook": true
+  },
+  {
+    "date": "2024-12-19T00:00:00Z",
+    "coefficient": 0.0,
+    "warehouseID": 130744.0,
+    "warehouseName": "Краснодар (Тихорецкая)",
+    "boxTypeName": "Короба",
+    "boxTypeID": 2.0,
+    "allowUnload": true,
+    "IsAvailableToBook": true
+  },
+  {
+    "date": "2024-12-20T00:00:00Z",
+    "coefficient": 0.0,
+    "warehouseID": 130744.0,
+    "warehouseName": "Краснодар (Тихорецкая)",
+    "boxTypeName": "Короба",
+    "boxTypeID": 2.0,
+    "allowUnload": true,
+    "IsAvailableToBook": true
+  },
+  {
+    "date": "2024-12-21T00:00:00Z",
+    "coefficient": 0.0,
+    "warehouseID": 130744.0,
+    "warehouseName": "Краснодар (Тихорецкая)",
+    "boxTypeName": "Короба",
+    "boxTypeID": 2.0,
+    "allowUnload": true,
+    "IsAvailableToBook": true
+  },
+  {
+    "date": "2024-12-22T00:00:00Z",
+    "coefficient": 0.0,
+    "warehouseID": 130744.0,
+    "warehouseName": "Краснодар (Тихорецкая)",
+    "boxTypeName": "Короба",
+    "boxTypeID": 2.0,
+    "allowUnload": true,
+    "IsAvailableToBook": true
+  },
+  {
+    "date": "2024-12-23T00:00:00Z",
+    "coefficient": 0.0,
+    "warehouseID": 130744.0,
+    "warehouseName": "Краснодар (Тихорецкая)",
+    "boxTypeName": "Короба",
+    "boxTypeID": 2.0,
+    "allowUnload": true,
+    "IsAvailableToBook": true
+  },
+  {
+    "date": "2024-12-24T00:00:00Z",
+    "coefficient": 0.0,
+    "warehouseID": 130744.0,
+    "warehouseName": "Краснодар (Тихорецкая)",
+    "boxTypeName": "Короба",
+    "boxTypeID": 2.0,
+    "allowUnload": true,
+    "IsAvailableToBook": true
+  },
+  {
+    "date": "2024-12-25T00:00:00Z",
+    "coefficient": 0.0,
+    "warehouseID": 130744.0,
+    "warehouseName": "Краснодар (Тихорецкая)",
+    "boxTypeName": "Короба",
+    "boxTypeID": 2.0,
+    "allowUnload": true,
+    "IsAvailableToBook": true
+  },
+  {
+    "date": "2024-12-26T00:00:00Z",
+    "coefficient": 0.0,
+    "warehouseID": 130744.0,
+    "warehouseName": "Краснодар (Тихорецкая)",
+    "boxTypeName": "Короба",
+    "boxTypeID": 2.0,
+    "allowUnload": true,
+    "IsAvailableToBook": true
+  },
+  {
+    "date": "2024-12-30T00:00:00Z",
+    "coefficient": 0.0,
+    "warehouseID": 130744.0,
+    "warehouseName": "Краснодар (Тихорецкая)",
+    "boxTypeName": "Короба",
+    "boxTypeID": 2.0,
+    "allowUnload": true,
+    "IsAvailableToBook": true
+  },
+  {
+    "date": "2024-12-31T00:00:00Z",
+    "coefficient": 0.0,
+    "warehouseID": 130744.0,
+    "warehouseName": "Краснодар (Тихорецкая)",
+    "boxTypeName": "Короба",
+    "boxTypeID": 2.0,
+    "allowUnload": true,
+    "IsAvailableToBook": true
+  },
+  {
+    "date": "2025-01-01T00:00:00Z",
+    "coefficient": 0.0,
+    "warehouseID": 130744.0,
+    "warehouseName": "Краснодар (Тихорецкая)",
+    "boxTypeName": "Короба",
+    "boxTypeID": 2.0,
+    "allowUnload": true,
+    "IsAvailableToBook": true
+  },
+  {
+    "date": "2025-01-02T00:00:00Z",
+    "coefficient": 0.0,
+    "warehouseID": 130744.0,
+    "warehouseName": "Краснодар (Тихорецкая)",
+    "boxTypeName": "Короба",
+    "boxTypeID": 2.0,
+    "allowUnload": true,
+    "IsAvailableToBook": true
+  },
+  {
+    "date": "2024-12-19T00:00:00Z",
+    "coefficient": 0.0,
+    "warehouseID": 208277.0,
+    "warehouseName": "Невинномысск",
+    "boxTypeName": "Короба",
+    "boxTypeID": 2.0,
+    "allowUnload": true,
+    "IsAvailableToBook": true
+  },
+  {
+    "date": "2024-12-20T00:00:00Z",
+    "coefficient": 0.0,
+    "warehouseID": 208277.0,
+    "warehouseName": "Невинномысск",
+    "boxTypeName": "Короба",
+    "boxTypeID": 2.0,
+    "allowUnload": true,
+    "IsAvailableToBook": true
+  },
+  {
+    "date": "2024-12-21T00:00:00Z",
+    "coefficient": 0.0,
+    "warehouseID": 208277.0,
+    "warehouseName": "Невинномысск",
+    "boxTypeName": "Короба",
+    "boxTypeID": 2.0,
+    "allowUnload": true,
+    "IsAvailableToBook": true
+  },
+  {
+    "date": "2024-12-22T00:00:00Z",
+    "coefficient": 0.0,
+    "warehouseID": 208277.0,
+    "warehouseName": "Невинномысск",
+    "boxTypeName": "Короба",
+    "boxTypeID": 2.0,
+    "allowUnload": true,
+    "IsAvailableToBook": true
+  },
+  {
+    "date": "2024-12-23T00:00:00Z",
+    "coefficient": 0.0,
+    "warehouseID": 208277.0,
+    "warehouseName": "Невинномысск",
+    "boxTypeName": "Короба",
+    "boxTypeID": 2.0,
+    "allowUnload": true,
+    "IsAvailableToBook": true
+  },
+  {
+    "date": "2024-12-24T00:00:00Z",
+    "coefficient": 0.0,
+    "warehouseID": 208277.0,
+    "warehouseName": "Невинномысск",
+    "boxTypeName": "Короба",
+    "boxTypeID": 2.0,
+    "allowUnload": true,
+    "IsAvailableToBook": true
+  },
+  {
+    "date": "2024-12-25T00:00:00Z",
+    "coefficient": 0.0,
+    "warehouseID": 208277.0,
+    "warehouseName": "Невинномысск",
+    "boxTypeName": "Короба",
+    "boxTypeID": 2.0,
+    "allowUnload": true,
+    "IsAvailableToBook": true
+  },
+  {
+    "date": "2024-12-26T00:00:00Z",
+    "coefficient": 0.0,
+    "warehouseID": 208277.0,
+    "warehouseName": "Невинномысск",
+    "boxTypeName": "Короба",
+    "boxTypeID": 2.0,
+    "allowUnload": true,
+    "IsAvailableToBook": true
+  },
+  {
+    "date": "2024-12-27T00:00:00Z",
+    "coefficient": 0.0,
+    "warehouseID": 208277.0,
+    "warehouseName": "Невинномысск",
+    "boxTypeName": "Короба",
+    "boxTypeID": 2.0,
+    "allowUnload": true,
+    "IsAvailableToBook": true
+  },
+  {
+    "date": "2024-12-28T00:00:00Z",
+    "coefficient": 0.0,
+    "warehouseID": 208277.0,
+    "warehouseName": "Невинномысск",
+    "boxTypeName": "Короба",
+    "boxTypeID": 2.0,
+    "allowUnload": true,
+    "IsAvailableToBook": true
+  },
+  {
+    "date": "2024-12-29T00:00:00Z",
+    "coefficient": 0.0,
+    "warehouseID": 208277.0,
+    "warehouseName": "Невинномысск",
+    "boxTypeName": "Короба",
+    "boxTypeID": 2.0,
+    "allowUnload": true,
+    "IsAvailableToBook": true
+  },
+  {
+    "date": "2024-12-30T00:00:00Z",
+    "coefficient": 0.0,
+    "warehouseID": 208277.0,
+    "warehouseName": "Невинномысск",
+    "boxTypeName": "Короба",
+    "boxTypeID": 2.0,
+    "allowUnload": true,
+    "IsAvailableToBook": true
+  },
+  {
+    "date": "2024-12-31T00:00:00Z",
+    "coefficient": 0.0,
+    "warehouseID": 208277.0,
+    "warehouseName": "Невинномысск",
+    "boxTypeName": "Короба",
+    "boxTypeID": 2.0,
+    "allowUnload": true,
+    "IsAvailableToBook": true
+  },
+  {
+    "date": "2025-01-01T00:00:00Z",
+    "coefficient": 0.0,
+    "warehouseID": 208277.0,
+    "warehouseName": "Невинномысск",
+    "boxTypeName": "Короба",
+    "boxTypeID": 2.0,
+    "allowUnload": true,
+    "IsAvailableToBook": true
+  },
+  {
+    "date": "2024-12-19T00:00:00Z",
+    "coefficient": 0.0,
+    "warehouseID": 324108.0,
+    "warehouseName": "Астана 2",
+    "boxTypeName": "Короба",
+    "boxTypeID": 2.0,
+    "allowUnload": true,
+    "IsAvailableToBook": true
+  },
+  {
+    "date": "2024-12-20T00:00:00Z",
+    "coefficient": 0.0,
+    "warehouseID": 324108.0,
+    "warehouseName": "Астана 2",
+    "boxTypeName": "Короба",
+    "boxTypeID": 2.0,
+    "allowUnload": true,
+    "IsAvailableToBook": true
+  },
+  {
+    "date": "2024-12-21T00:00:00Z",
+    "coefficient": 0.0,
+    "warehouseID": 324108.0,
+    "warehouseName": "Астана 2",
+    "boxTypeName": "Короба",
+    "boxTypeID": 2.0,
+    "allowUnload": true,
+    "IsAvailableToBook": true
+  },
+  {
+    "date": "2024-12-22T00:00:00Z",
+    "coefficient": 0.0,
+    "warehouseID": 324108.0,
+    "warehouseName": "Астана 2",
+    "boxTypeName": "Короба",
+    "boxTypeID": 2.0,
+    "allowUnload": true,
+    "IsAvailableToBook": true
+  },
+  {
+    "date": "2024-12-23T00:00:00Z",
+    "coefficient": 0.0,
+    "warehouseID": 324108.0,
+    "warehouseName": "Астана 2",
+    "boxTypeName": "Короба",
+    "boxTypeID": 2.0,
+    "allowUnload": true,
+    "IsAvailableToBook": true
+  },
+  {
+    "date": "2024-12-24T00:00:00Z",
+    "coefficient": 0.0,
+    "warehouseID": 324108.0,
+    "warehouseName": "Астана 2",
+    "boxTypeName": "Короба",
+    "boxTypeID": 2.0,
+    "allowUnload": true,
+    "IsAvailableToBook": true
+  },
+  {
+    "date": "2024-12-25T00:00:00Z",
+    "coefficient": 0.0,
+    "warehouseID": 324108.0,
+    "warehouseName": "Астана 2",
+    "boxTypeName": "Короба",
+    "boxTypeID": 2.0,
+    "allowUnload": true,
+    "IsAvailableToBook": true
+  },
+  {
+    "date": "2024-12-26T00:00:00Z",
+    "coefficient": 0.0,
+    "warehouseID": 324108.0,
+    "warehouseName": "Астана 2",
+    "boxTypeName": "Короба",
+    "boxTypeID": 2.0,
+    "allowUnload": true,
+    "IsAvailableToBook": true
+  },
+  {
+    "date": "2024-12-27T00:00:00Z",
+    "coefficient": 0.0,
+    "warehouseID": 324108.0,
+    "warehouseName": "Астана 2",
+    "boxTypeName": "Короба",
+    "boxTypeID": 2.0,
+    "allowUnload": true,
+    "IsAvailableToBook": true
+  },
+  {
+    "date": "2024-12-28T00:00:00Z",
+    "coefficient": 0.0,
+    "warehouseID": 324108.0,
+    "warehouseName": "Астана 2",
+    "boxTypeName": "Короба",
+    "boxTypeID": 2.0,
+    "allowUnload": true,
+    "IsAvailableToBook": true
+  },
+  {
+    "date": "2024-12-29T00:00:00Z",
+    "coefficient": 0.0,
+    "warehouseID": 324108.0,
+    "warehouseName": "Астана 2",
+    "boxTypeName": "Короба",
+    "boxTypeID": 2.0,
+    "allowUnload": true,
+    "IsAvailableToBook": true
+  },
+  {
+    "date": "2024-12-30T00:00:00Z",
+    "coefficient": 0.0,
+    "warehouseID": 324108.0,
+    "warehouseName": "Астана 2",
+    "boxTypeName": "Короба",
+    "boxTypeID": 2.0,
+    "allowUnload": true,
+    "IsAvailableToBook": true
+  },
+  {
+    "date": "2024-12-31T00:00:00Z",
+    "coefficient": 0.0,
+    "warehouseID": 324108.0,
+    "warehouseName": "Астана 2",
+    "boxTypeName": "Короба",
+    "boxTypeID": 2.0,
+    "allowUnload": true,
+    "IsAvailableToBook": true
+  }
+]
